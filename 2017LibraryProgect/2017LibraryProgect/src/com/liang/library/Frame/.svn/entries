@@ -1,0 +1,64 @@
+8
+
+dir
+4
+https://hp/svn/progject/2017-01-15Lib/src/com/liang/library/Frame
+https://hp/svn/progject
+
+
+
+2017-01-18T06:08:53.022832Z
+4
+likui
+
+
+svn:special svn:externals svn:needs-lock
+
+LoginFrame.java
+file
+5
+
+
+
+2017-01-19T05:03:44.194753Z
+d77723fac8ab12f67314777021935679
+2017-01-19T05:36:11.203116Z
+5
+likui
+
+AdminControlFrame.java
+file
+
+
+
+
+2017-01-18T05:26:42.900000Z
+6a8f458f3ab45a72a6116d53aaa331b5
+2017-01-18T06:08:53.022832Z
+4
+likui
+
+UserControlFrame.java
+file
+5
+
+
+
+2017-01-19T05:02:10.652403Z
+e4c94ec3580e42d1320ad94b445c673b
+2017-01-19T05:36:11.203116Z
+5
+likui
+
+ChatFrame.java
+file
+5
+
+
+
+2017-01-18T16:04:38.567896Z
+3ea47b111afe2f3fdc8477abdd1b3341
+2017-01-19T05:36:11.203116Z
+5
+likui
+

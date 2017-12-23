@@ -1,0 +1,96 @@
+8
+
+dir
+4
+https://hp/svn/progject/2017-01-15Lib
+https://hp/svn/progject
+
+
+
+2017-01-18T06:08:53.022832Z
+4
+likui
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+07816efd-95d4-ef48-95ca-f549598f6b46
+
+.classpath
+file
+5
+
+
+
+2017-01-18T08:05:10.549000Z
+cec22b76fab353f5b643a0918ee0499a
+2017-01-19T05:36:11.203116Z
+5
+likui
+
+image
+dir
+
+.project
+file
+5
+
+
+
+2017-01-18T12:44:50.424213Z
+d65279b3940e0aad75eb7da60db52b9b
+2017-01-19T05:36:11.203116Z
+5
+likui
+
+lib
+dir
+
+src
+dir
+
+forms-1.2.0-src.zip
+file
+
+
+
+
+2017-01-15T06:14:25.775332Z
+8e319748268197935d2ff9fdc566b22f
+2017-01-18T06:08:53.022832Z
+4
+likui
+has-props
+
+bin
+dir
+
+img
+dir
+
+forms-1.2.0.jar
+file
+
+
+
+
+2017-01-15T06:14:25.774332Z
+32ad2adbf39d88e6292dbc935d6dc6fa
+2017-01-18T06:08:53.022832Z
+4
+likui
+has-props
+
+.settings
+dir
+

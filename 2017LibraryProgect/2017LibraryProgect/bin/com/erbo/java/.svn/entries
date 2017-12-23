@@ -1,0 +1,31 @@
+8
+
+dir
+4
+https://hp/svn/progject/2017-01-15Lib/src/com/erbo/java
+https://hp/svn/progject
+
+
+
+2017-01-18T06:08:53.022832Z
+4
+likui
+
+
+svn:special svn:externals svn:needs-lock
+
+jdbd_util
+dir
+
+service
+dir
+
+entityclass
+dir
+
+dao
+dir
+
+borrow
+dir
+

@@ -1,0 +1,29 @@
+8
+
+dir
+4
+https://hp/svn/progject/2017-01-15Lib/lib
+https://hp/svn/progject
+
+
+
+2017-01-18T06:08:53.022832Z
+4
+likui
+
+
+svn:special svn:externals svn:needs-lock
+
+ojdbc14.jar
+file
+
+
+
+
+2017-01-15T06:14:25.761331Z
+db785e8261f8996245c4810d98f76d97
+2017-01-18T06:08:53.022832Z
+4
+likui
+has-props
+

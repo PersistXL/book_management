@@ -1,0 +1,52 @@
+8
+
+dir
+4
+https://hp/svn/progject/2017-01-15Lib/src/com/java/dao
+https://hp/svn/progject
+
+
+
+2017-01-18T06:08:53.022832Z
+4
+likui
+
+
+svn:special svn:externals svn:needs-lock
+
+LibraryBookDao.java
+file
+
+
+
+
+2017-01-15T06:14:46.022490Z
+325b730c349544f82bf6cbe5521e46cc
+2017-01-18T06:08:53.022832Z
+4
+likui
+
+ReglibraryDao.java
+file
+
+
+
+
+2017-01-17T13:30:03.976817Z
+f85a114e4fb40101075ed0ea0acd7c6d
+2017-01-18T06:08:53.022832Z
+4
+likui
+
+BorrowBookDao.java
+file
+
+
+
+
+2017-01-15T06:14:46.021490Z
+860f8eaca9529426d9180ef41986bddc
+2017-01-18T06:08:53.022832Z
+4
+likui
+

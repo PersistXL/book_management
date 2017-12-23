@@ -1,0 +1,52 @@
+8
+
+dir
+4
+https://hp/svn/progject/2017-01-15Lib/src/com/library/Frame
+https://hp/svn/progject
+
+
+
+2017-01-18T06:08:53.022832Z
+4
+likui
+
+
+svn:special svn:externals svn:needs-lock
+
+AmongJFrame.java
+file
+
+
+
+
+2017-01-18T05:28:09.517071Z
+28b56fff11e36500012922063fc723a3
+2017-01-18T06:08:53.022832Z
+4
+likui
+
+ChangeJFrame.java
+file
+
+
+
+
+2017-01-18T05:28:41.071876Z
+465c1c9214f5d067d7db693192088a5f
+2017-01-18T06:08:53.022832Z
+4
+likui
+
+RegisterNFrame.java
+file
+
+
+
+
+2017-01-18T05:28:50.232400Z
+a79b00595898b289c8301f899788b313
+2017-01-18T06:08:53.022832Z
+4
+likui
+

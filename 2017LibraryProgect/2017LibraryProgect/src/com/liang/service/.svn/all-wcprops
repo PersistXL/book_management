@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/progject/!svn/ver/4/2017-01-15Lib/src/com/liang/service
+END
+LibraryBookService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/progject/!svn/ver/4/2017-01-15Lib/src/com/liang/service/LibraryBookService.java
+END
+RegLibraryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/progject/!svn/ver/4/2017-01-15Lib/src/com/liang/service/RegLibraryService.java
+END
+BorrowBookService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/progject/!svn/ver/4/2017-01-15Lib/src/com/liang/service/BorrowBookService.java
+END

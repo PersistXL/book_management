@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/progject/!svn/ver/4/2017-01-15Lib/src/com/liang/dao
+END
+LibraryBookDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/progject/!svn/ver/4/2017-01-15Lib/src/com/liang/dao/LibraryBookDao.java
+END
+RegLibraryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/progject/!svn/ver/4/2017-01-15Lib/src/com/liang/dao/RegLibraryDao.java
+END
+BorrowBookDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/progject/!svn/ver/4/2017-01-15Lib/src/com/liang/dao/BorrowBookDao.java
+END

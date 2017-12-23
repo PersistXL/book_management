@@ -1,0 +1,52 @@
+8
+
+dir
+4
+https://hp/svn/progject/2017-01-15Lib/src/com/java/entity
+https://hp/svn/progject
+
+
+
+2017-01-18T06:08:53.022832Z
+4
+likui
+
+
+svn:special svn:externals svn:needs-lock
+
+LibraryBook.java
+file
+
+
+
+
+2017-01-15T06:14:46.030490Z
+327c4cfbc4a81e6a67e1c5cb85c2156e
+2017-01-18T06:08:53.022832Z
+4
+likui
+
+Reglibrary.java
+file
+
+
+
+
+2017-01-17T13:23:38.051743Z
+9cfb3c85d093bf01dd769aadc86aff66
+2017-01-18T06:08:53.022832Z
+4
+likui
+
+BorrowBook.java
+file
+
+
+
+
+2017-01-15T06:14:46.029490Z
+f47b174565e5fd93e190b2204b9b8814
+2017-01-18T06:08:53.022832Z
+4
+likui
+
